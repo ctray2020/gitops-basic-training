@@ -1,2 +1,4 @@
 # gitops-basic-training
-Used for Oracel GitOPs training
+Used for Oracle GitOPs training
+
+April 2023
